@@ -2,6 +2,7 @@ import React from "react";
 import { CgMail } from "react-icons/cg";
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
+import { PiReadCvLogoFill } from "react-icons/pi";
 
 const Footer = () => {
   return (
@@ -44,6 +45,22 @@ const Footer = () => {
               href=" https://github.com/rasc3ta"
             >
               github.com/rasc3ta
+            </a>
+          </span>
+        </li>
+        <li className="flex flex-row flex-nowrap items-center gap-2">
+          <span className="text-[30px]">
+            <PiReadCvLogoFill />
+          </span>
+          <span>
+            {" "}
+            Resume:&nbsp;
+            <a
+              target="_blank"
+              className="hover:underline"
+              href="https://drive.google.com/file/d/1Qa5Z3lTKelZslk6fJwDZLf1R5UKj5pcQ/view?usp=sharing"
+            >
+              Click here for resume
             </a>
           </span>
         </li>
