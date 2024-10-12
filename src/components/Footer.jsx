@@ -10,7 +10,7 @@ const Footer = () => {
       <h2 className="text-3xl border-b-2 border-white pb-4 mb-[40px] px-10 ">
         My Contact &amp; Other Links
       </h2>
-      <ul className=" flex flex-col gap-4 items-start justify-center text-xl min-w-[400px]">
+      <ul className=" flex flex-col gap-4 items-start justify-center text-xl min-w-[400px] p-4">
         <li className="flex flex-row flex-nowrap items-center gap-2">
           <span className="text-[30px]">
             <CgMail />
