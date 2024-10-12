@@ -5,6 +5,7 @@
 @tailwind utilities;
 
 html {
+  min-width: 400px;
   background-color: black;
 }
 
