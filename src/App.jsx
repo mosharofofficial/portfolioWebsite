@@ -1,18 +1,20 @@
 // import profile from "./assets/img/profile.JPG";
 
+
 import Header from "./components/Header";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
+import WhyHireMe from "./components/WhyHireMe";
+import Footer from "./components/Footer";
 
 function App() {
   return (
     <div
-      className="text-white bg-black min-h-screen 
-    "
+      className={`allWrapper text-white  min-h-screen bg-[#00000080]`}
     >
       <div className="w-90vw max-w-[1280px] mx-auto ">
         <Header></Header>
-        <div className=" my-[100px] flex flex-col items-center justify-center p-10 border-t-[4px] border-white">
+        <div className=" my-[100px] flex flex-col items-center justify-center p-10 border-x-[4px] border-white">
           <h2 className="text-3xl border-b-2 border-white pb-4 mb-[40px] px-10 ">
             About me
           </h2>
@@ -30,6 +32,8 @@ function App() {
         </div>
         <Skills></Skills>
         <Projects></Projects>
+        <WhyHireMe></WhyHireMe>
+        <Footer></Footer>
       </div>
     </div>
   );

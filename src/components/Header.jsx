@@ -3,7 +3,7 @@ import React from "react";
 const Header = () => {
   return (
     <div className="">
-      <div className="min-h-[30vh] p-5 flex items-center sm:items-start pt-[100px] justify-center ">
+      <div className="min-h-[30vh] border-t-[4px] p-10 border-x-[4px] flex items-center sm:items-start mt-[100px] justify-center ">
         <img
           src="https://i.ibb.co.com/JvNYT1P/BT-6576.jpg"
           className="w-[150px] h-[200px] object-cover object-top border-2 border-white"
