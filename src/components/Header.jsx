@@ -2,7 +2,7 @@ import React from "react";
 
 const Header = () => {
   return (
-    <div className="">
+    <div data-aos="fade-up" className="">
       <div className="min-h-[30vh] border-t-[4px] p-10 border-x-[4px] flex items-center sm:items-start mt-[100px] justify-center ">
         <img
           src="https://i.ibb.co.com/JvNYT1P/BT-6576.jpg"
@@ -21,10 +21,10 @@ const Header = () => {
           </p>
         </div>
       </div>
-        <p className=" px-4 mt-6  sm:hidden mx-auto max-w-[490px] md:max-w-[500px]">
-          Passionate Web Developer with a strong foundation in modern web
-          development technologies.
-        </p>
+      <p className=" px-4 mt-6  sm:hidden mx-auto max-w-[490px] md:max-w-[500px]">
+        Passionate Web Developer with a strong foundation in modern web
+        development technologies.
+      </p>
     </div>
   );
 };

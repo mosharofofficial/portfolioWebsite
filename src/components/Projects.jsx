@@ -2,7 +2,10 @@ import React from "react";
 
 const Projects = () => {
   return (
-    <div className="flex flex-col items-center justify-center p-10 border-x-[4px] ">
+    <div
+      data-aos="fade-up"
+      className="flex flex-col items-center justify-center p-10 border-x-[4px] "
+    >
       <h2 className="text-3xl border-b-2 border-white pb-4 mb-[40px] px-10 ">
         Projects{" "}
       </h2>

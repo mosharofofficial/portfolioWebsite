@@ -2,12 +2,15 @@ import React from 'react';
 
 const WhyHireMe = () => {
     return (
-      <div className="mt-[100px] p-10 flex flex-col items-center justify-center border-x-[4px]">
+      <div
+        data-aos="fade-up"
+        className="mt-[100px] p-10 flex flex-col items-center justify-center border-x-[4px]"
+      >
         <h2 className="text-3xl border-b-2 border-white pb-4 mb-[40px] px-10 ">
           Why Hire Me ?
         </h2>
 
-        <p className='max-w-[1024px] text-xl'>
+        <p className="max-w-[1024px] text-xl">
           I bring a strong foundation in both front-end and back-end web
           development, with experience in key technologies like HTML, CSS,
           JavaScript, React, Express.js, MongoDB, and Firebase. My

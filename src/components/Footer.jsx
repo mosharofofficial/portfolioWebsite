@@ -6,7 +6,10 @@ import { PiReadCvLogoFill } from "react-icons/pi";
 
 const Footer = () => {
   return (
-    <div className="bg-black border-[4px] border-t-0 my-[100px] p-10 flex flex-col items-center justify-center">
+    <div
+      data-aos="fade-up"
+      className="bg-black border-[4px] border-t-0 my-[100px] p-10 flex flex-col items-center justify-center"
+    >
       <h2 className="text-3xl border-b-2 border-white pb-4 mb-[40px] px-10 ">
         My Contact &amp; Other Links
       </h2>

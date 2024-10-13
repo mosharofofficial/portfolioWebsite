@@ -12,7 +12,10 @@ import { SiJsonwebtokens } from "react-icons/si";
 
 const Skills = () => {
   return (
-    <div className="mt-[100px] border-x-[4px] py-10 mb-[100px]">
+    <div
+      data-aos="fade-up"
+      className="mt-[100px] border-x-[4px] py-10 mb-[100px]"
+    >
       <div className="w-full flex flex-col items-center justify-center">
         <h2 className="text-3xl border-b-2 border-white pb-4 mb-[40px] px-10">
           Front-End Skills{" "}

@@ -4,7 +4,9 @@
 @tailwind components;
 @tailwind utilities;
 
-html {
+html
+/* ,#parallaxbg  */
+{
   min-width: 400px;
   background-color: black;
   background-image: url('./assets/img/starryBG.png');
@@ -14,7 +16,9 @@ html {
   
 }
 
-.allWrapper > * > *{
+
+
+.insideParallax > * {
   height: 100%;
   background-color: hsla(0, 0%, 100%, 0.151) ;
   backdrop-filter: blur(5px);
