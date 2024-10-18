@@ -29,9 +29,9 @@ const Projects = () => {
             <a
               className="underline"
               target="_blank"
-              href="https://github.com/Rasc3ta/BloodSpring"
+              href="https://github.com/mosharofofficial/BloodSpring"
             >
-              https://github.com/Rasc3ta/BloodSpring
+              https://github.com/mosharofofficial/BloodSpring
             </a>
           </h3>
           <h3 className="text-lg p-2 mb-2 border-b-[2px]">
@@ -39,9 +39,9 @@ const Projects = () => {
             <a
               className="underline"
               target="_blank"
-              href="https://github.com/Rasc3ta/BloodSpring-server"
+              href="https://github.com/mosharofofficial/BloodSpring-server"
             >
-              https://github.com/Rasc3ta/BloodSpring-server
+              https://github.com/mosharofofficial/BloodSpring-server
             </a>
           </h3>
           <p className="p-2">
