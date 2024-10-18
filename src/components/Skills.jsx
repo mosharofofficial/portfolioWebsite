@@ -75,12 +75,12 @@ const Skills = () => {
             <p className="text-2xl">Express.js</p>
           </div>
 
-          <div className="flex flex-col items-center justify-center">
+          {/* <div className="flex flex-col items-center justify-center">
             <span className="text-[100px]">
               <FaNodeJs />
             </span>
             <p className="text-2xl">Node.js</p>
-          </div>
+          </div> */}
 
           <div className="flex flex-col items-center justify-center">
             <span className="text-[100px]">

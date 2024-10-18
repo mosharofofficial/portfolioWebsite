@@ -45,9 +45,9 @@ const Footer = () => {
             <a
               target="_blank"
               className="hover:underline"
-              href=" https://github.com/rasc3ta"
+              href=" https://github.com/mosharofofficial"
             >
-              github.com/rasc3ta
+              github.com/mosharofofficial
             </a>
           </span>
         </li>
@@ -61,7 +61,7 @@ const Footer = () => {
             <a
               target="_blank"
               className="hover:underline"
-              href="https://drive.google.com/file/d/1Qa5Z3lTKelZslk6fJwDZLf1R5UKj5pcQ/view?usp=sharing"
+              href="https://drive.google.com/file/d/1htywy8XfPWws1QmRR20q_dWhXcGJo85C/view?usp=sharing"
             >
               Click here for resume
             </a>
