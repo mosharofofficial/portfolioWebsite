@@ -61,7 +61,7 @@ const Footer = () => {
             <a
               target="_blank"
               className="hover:underline"
-              href="https://drive.google.com/file/d/1htywy8XfPWws1QmRR20q_dWhXcGJo85C/view?usp=sharing"
+              href="https://drive.google.com/file/d/1HL6pZjwnGGbw1ckIQXPEku70e7lJYB9F/view"
             >
               Click here for resume
             </a>

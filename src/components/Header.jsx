@@ -5,7 +5,8 @@ const Header = () => {
     <div data-aos="fade-up" className="">
       <div className="min-h-[30vh] border-t-[4px] p-10 border-x-[4px] flex items-center sm:items-start mt-[100px] justify-center ">
         <img
-          src="https://i.ibb.co.com/JvNYT1P/BT-6576.jpg"
+          // src="https://i.ibb.co.com/JvNYT1P/BT-6576.jpg"
+          src="https://i.ibb.co.com/Vxvrmc2/nil-panjabi2.jpg"
           className="w-[150px] h-[200px] object-cover object-top border-2 border-white"
         />
         <div className=" flex flex-col justify-start items-start">
